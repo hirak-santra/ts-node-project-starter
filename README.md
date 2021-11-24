@@ -1,5 +1,7 @@
  Project: TsNodeProject
+
  Description: Basic Node js project with ts and nodemon
+
  Author: Hirak Santra
 /****************************************************************************/
 
