@@ -1,3 +1,8 @@
-export function hello(world: string) {
-    console.log(`Welcome ${world}`);
+export class App {
+
+    constructor() {}
+
+    bootstrap() {
+        console.log("Welcome Hirak")
+    }
 }
