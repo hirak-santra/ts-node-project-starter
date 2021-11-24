@@ -3,6 +3,7 @@
  Description: Basic Node js project with ts and nodemon
 
  Author: Hirak Santra
+
 /****************************************************************************/
 
  Build ts files to js files
