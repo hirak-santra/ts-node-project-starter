@@ -1,3 +1,4 @@
-import { hello } from "./app/main";
+import { App } from "./app/main";
 
-hello("Hirak");
+const app = new App();
+app.bootstrap();
